@@ -22,3 +22,11 @@ As for ethical considerations, there isn't any Personally Identifiable Informati
 * Do younger people read e-books more?
 * How many people read printed books v. audiobooks v. e-books?
 * Do frequent readers (those who read 20 or more books) have a preference for how they read?
+## Citations
+Pew Research Center. (2021). 2021 Core Trends Survey [Data set]. Pew Research Center. [DOI/URL](https://www.pewresearch.org/internet/dataset/2021-core-trends-survey/)
+
+Pew Research Center. (2019). Core Trends Survey [Data set]. Pew Research Center. [DOI/URL](https://www.pewresearch.org/internet/dataset/core-trends-survey/)
+
+Pew Research Center. (2018). Jan. 3-10, 2018 - Core Trends Survey [Data set]. Pew Research Center. [DOI/URL](https://www.pewresearch.org/internet/dataset/jan-3-10-2018-core-trends-survey/)
+## Tableau Storyboard
+[The State of Reading in the U.S.](https://public.tableau.com/views/TheStateofReadingintheU_S_/TheStateofReadingintheU_S_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
